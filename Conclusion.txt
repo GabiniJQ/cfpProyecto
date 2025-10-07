@@ -1,0 +1,36 @@
+Punto 1. Durante el desarrollo de este proyecto pudimos poner en práctica habilidades básicas de programación en Java, 
+como la gestión de flujos de control y el manejo de estructuras de datos (Map y List), también nos enseñó la importancia 
+del manejo de archivos y la depuración (debugging) en un entorno de desarrollo. Logramos entender que la ejecución 
+exitosa de un programa complejo desde lo simple como es la coincidencia estricta entre el nombre de la clase y el archivo,
+la ubicación correcta de los archivos de entrada (.csv). En conclusión, logramos construir una solución funcional de 
+procesamiento de datos mientras dominaba las herramientas del IDE y las validaciones de errores de sistema más frecuentes.
+
+Punto 2.
+Aprendimos a manejar datos de forma estructurada, generando, leyendo y procesando
+archivos CSV en Java sin necesidad de la intervención directa del usuario. Estas habilidades son muy útiles en el ámbito 
+profesional, ya que muchas empresas requieren automatizar tareas relacionadas con el procesamiento de información, 
+la validación de datos y la generación de reportes.
+También fortalecimos nuestros conocimientos en programación orientada a objetos, aplicando buenas prácticas como la 
+separación de responsabilidades entre clases y el manejo adecuado de excepciones. Esto nos ayuda a desarrollar soluciones 
+más organizadas, escalables y fáciles de mantener, algo esencial en cualquier entorno laboral de desarrollo de software.
+Además, comprendimos la importancia de la calidad del código, la documentación y el control de errores, aspectos que son 
+fundamentales en proyectos reales. Todo lo aprendido puede aplicarse en áreas como la analítica de datos, la ingeniería de 
+software o la gestión de sistemas empresariales, donde se requiere pensar de manera lógica, estructurada y eficiente.
+En general, este proyecto nos permitió fortalecer tanto nuestras habilidades técnicas como nuestras competencias de 
+trabajo en equipo, planificación y responsabilidad profesional.
+
+Punto 3.
+Se presentaron diversos desafíos que contribuyeron al fortalecimiento de las
+competencias técnicas y analíticas del equipo. Una de las principales dificultades fue garantizar la correcta gestión de los
+archivos de entrada y salida, asegurando su lectura y escritura sin errores de formato ni de ubicación dentro del entorno 
+de trabajo. También representó un reto mantener la coherencia en la estructura de los datos, especialmente al trabajar 
+con archivos planos que podían contener encabezados o registros incompletos.
+Otro aspecto complejo fue coordinar el flujo de ejecución de las clases, ya que el programa debía generar y procesar 
+información sin intervención directa del usuario. Esto implicó planificar cuidadosamente las dependencias entre métodos 
+y validar los resultados de manera automatizada. Asimismo, la documentación del código y la organización del repositorio 
+exigieron una atención constante para cumplir con las buenas prácticas de programación y presentación exigidas por la 
+institución.
+A pesar de estas dificultades, cada obstáculo permitió adquirir mayor comprensión sobre el diseño modular, la 
+manipulación de archivos y la importancia de estructurar correctamente un proyecto desde sus primeras fases. En 
+consecuencia, los retos enfrentados se transformaron en oportunidades de aprendizaje que fortalecieron la calidad del 
+trabajo y la preparación para las etapas siguientes del proyecto.
